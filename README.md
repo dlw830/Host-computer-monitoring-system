@@ -480,16 +480,7 @@ SOFTWARE.
 ## 📸 截图展示
 
 ### 主界面
-![主界面](docs/screenshots/main_window.png)
-
-### 实时曲线
-![实时曲线](docs/screenshots/realtime_curve.png)
-
-### 数据监视器
-![数据监视器](docs/screenshots/data_monitor.png)
-
-### 配置界面
-![配置界面](docs/screenshots/config_dialog.png)
+<img width="2878" height="1704" alt="image" src="https://github.com/user-attachments/assets/0bb18843-403a-48c3-8f48-a0fef327fbb9" />
 
 ---
 
@@ -499,4 +490,5 @@ SOFTWARE.
 ---
 
 **Made with ❤️ by 力华亘金**
+
 
